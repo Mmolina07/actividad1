@@ -1,0 +1,8 @@
+def max_min_de_lista(lista):
+
+    maximo = max(lista)
+    minimo = min(lista)
+
+    return "El mayor es",maximo, "y el menor", minimo
+
+print(max_min_de_lista([1,2,3,4,5,6,7,8,9]))

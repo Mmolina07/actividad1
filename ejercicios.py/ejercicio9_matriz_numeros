@@ -1,0 +1,8 @@
+import random
+def generar_e_imprimir_matriz(filas, columnas, rango_min, rango_max):
+    matriz = [[random.randint(rango_min, rango_max) for i in range(columnas)] for j in range(filas)]
+    
+    return matriz
+
+
+print(generar_e_imprimir_matriz(3,3,3,3))

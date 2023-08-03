@@ -1,2 +1,2 @@
 # actividad1
-Actividadparticipacion-Mateo-Molina
+Se hace entrega de la actividad de participacion 1
